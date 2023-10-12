@@ -1,0 +1,60 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# IPA 88. input
+#
+# Table author:
+#  - Michael Wong <i@huangqian.org>
+#
+
+---
+name: ipa88
+version: "0.1"
+sort: original
+...
+
+ɒ	a
+ɑː	a
+ʌ	a
+æ	ae
+aɪ	ai
+aʊ	au
+e	e
+ə	e
+eɪ	ei
+eə	ee
+b	b
+d	d
+dʒ	dj
+f	f
+g	g
+h	h
+iː	i
+ɪ	i
+ɪə	ir
+j	j
+k	k
+l	l
+m	m
+n	n
+ŋ	n
+əʊ	o
+ɔː	o
+ɔɪ	oi
+p	p
+r	r
+ʒ	ri
+s	s
+θ	s
+ʃ	sh
+t	t
+tʃ	ch
+ʊ	u
+uː	u
+ʊə	ue
+v	v
+w	w
+z	z
+ð	z
+
+
